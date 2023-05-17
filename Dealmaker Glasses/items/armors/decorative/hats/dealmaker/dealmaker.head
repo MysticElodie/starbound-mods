@@ -1,0 +1,20 @@
+{
+  "itemName" : "dealmaker",
+  "price" : 5000,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "headwear",
+  "description" : "Fashionable pink and yellow glasses. Greatly increases KROMER gained.",
+  "shortdescription" : "Dealmaker",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+  "colorOptions" : [
+    // Default
+    { "6f2919" : "4B364E" }
+  ]
+}

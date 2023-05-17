@@ -1,0 +1,7 @@
+[
+	{
+		"op": "replace",
+		"path": "/effectDirectives",
+		"value": "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=B5E575FF?replace=31a6ffFF=6BBC28FF"
+	}
+]

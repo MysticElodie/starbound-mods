@@ -1,0 +1,11 @@
+{
+  "author" : "MysticElodie",
+  "description" : "Recolors the teleport beams of all vanilla races to better match the ship colors used by Better Ships.",
+  "friendlyName" : "Teleport Beam Colors for Better Ships",
+  "link" : "steam://url/CommunityFilePage/2570103236",
+  "name" : "TeleportBeamColors",
+  "priority" : 9990,
+  "steamContentId" : "2570103236",
+  "tags" : "Miscellaneous",
+  "version" : "1.0"
+}
